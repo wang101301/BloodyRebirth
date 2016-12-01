@@ -1,0 +1,6 @@
+D:\我的项目\MasterWang.CodeLibrary\StatePatterns\bin\Debug\StatePatterns.exe.config
+D:\我的项目\MasterWang.CodeLibrary\StatePatterns\bin\Debug\StatePatterns.exe
+D:\我的项目\MasterWang.CodeLibrary\StatePatterns\bin\Debug\StatePatterns.pdb
+D:\我的项目\MasterWang.CodeLibrary\StatePatterns\obj\Debug\StatePatterns.csprojResolveAssemblyReference.cache
+D:\我的项目\MasterWang.CodeLibrary\StatePatterns\obj\Debug\StatePatterns.exe
+D:\我的项目\MasterWang.CodeLibrary\StatePatterns\obj\Debug\StatePatterns.pdb

@@ -1,0 +1,6 @@
+D:\我的项目\MasterWang.CodeLibrary\DesignPatterns\bin\Debug\DesignPatterns.exe.config
+D:\我的项目\MasterWang.CodeLibrary\DesignPatterns\bin\Debug\DesignPatterns.exe
+D:\我的项目\MasterWang.CodeLibrary\DesignPatterns\bin\Debug\DesignPatterns.pdb
+D:\我的项目\MasterWang.CodeLibrary\DesignPatterns\obj\Debug\DesignPatterns.csprojResolveAssemblyReference.cache
+D:\我的项目\MasterWang.CodeLibrary\DesignPatterns\obj\Debug\DesignPatterns.exe
+D:\我的项目\MasterWang.CodeLibrary\DesignPatterns\obj\Debug\DesignPatterns.pdb

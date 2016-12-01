@@ -1,0 +1,6 @@
+D:\我的项目\MasterWang.CodeLibrary\DependenceInversionPrinciple\bin\Debug\DependenceInversionPrinciple.exe.config
+D:\我的项目\MasterWang.CodeLibrary\DependenceInversionPrinciple\obj\Debug\DependenceInversionPrinciple.csprojResolveAssemblyReference.cache
+D:\我的项目\MasterWang.CodeLibrary\DependenceInversionPrinciple\bin\Debug\DependenceInversionPrinciple.exe
+D:\我的项目\MasterWang.CodeLibrary\DependenceInversionPrinciple\bin\Debug\DependenceInversionPrinciple.pdb
+D:\我的项目\MasterWang.CodeLibrary\DependenceInversionPrinciple\obj\Debug\DependenceInversionPrinciple.exe
+D:\我的项目\MasterWang.CodeLibrary\DependenceInversionPrinciple\obj\Debug\DependenceInversionPrinciple.pdb

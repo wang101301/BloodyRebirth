@@ -1,0 +1,6 @@
+D:\我的项目\MasterWang.CodeLibrary\CSharp\bin\Debug\CSharp.exe.config
+D:\我的项目\MasterWang.CodeLibrary\CSharp\obj\Debug\CSharp.csprojResolveAssemblyReference.cache
+D:\我的项目\MasterWang.CodeLibrary\CSharp\bin\Debug\CSharp.exe
+D:\我的项目\MasterWang.CodeLibrary\CSharp\bin\Debug\CSharp.pdb
+D:\我的项目\MasterWang.CodeLibrary\CSharp\obj\Debug\CSharp.exe
+D:\我的项目\MasterWang.CodeLibrary\CSharp\obj\Debug\CSharp.pdb

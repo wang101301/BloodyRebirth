@@ -1,0 +1,6 @@
+D:\我的项目\MasterWang.CodeLibrary\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+D:\我的项目\MasterWang.CodeLibrary\AbstractFactory\bin\Debug\AbstractFactory.exe
+D:\我的项目\MasterWang.CodeLibrary\AbstractFactory\bin\Debug\AbstractFactory.pdb
+D:\我的项目\MasterWang.CodeLibrary\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
+D:\我的项目\MasterWang.CodeLibrary\AbstractFactory\obj\Debug\AbstractFactory.exe
+D:\我的项目\MasterWang.CodeLibrary\AbstractFactory\obj\Debug\AbstractFactory.pdb

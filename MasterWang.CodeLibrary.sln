@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01设计模式", "01设计模式", "{CE6B0CB1-C786-4865-8EA3-777947FA57A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns", "DesignPatterns\DesignPatterns.csproj", "{5E236573-0AA7-4948-9BE5-38600AD915EC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02基础知识", "02基础知识", "{1ABE9F8C-164B-458D-BF33-B809042BB8D2}"
+	ProjectSection(SolutionItems) = preProject
+		HTMLPage1.html = HTMLPage1.html
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp", "CSharp\CSharp.csproj", "{2DC437A0-DAAA-447F-8282-44407F8E05B3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03依赖倒转", "03依赖倒转", "{D805DC23-3085-4D04-B9E9-1F0166A4023D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependenceInversionPrinciple", "DependenceInversionPrinciple\DependenceInversionPrinciple.csproj", "{392CD492-6BA0-4C19-B15A-6E66B84BE1A2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04 状态模式", "04 状态模式", "{34274EEC-2E91-49A4-9486-0801AC74CD8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatePatterns", "StatePatterns\StatePatterns.csproj", "{A1743531-1110-4BCC-8842-332AD63054D7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05 抽象工厂模式", "05 抽象工厂模式", "{45E3532A-D9CD-44B0-8155-CE06EAE910C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{4084FF59-3ACC-42AA-8DF3-F281D0C60C73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E236573-0AA7-4948-9BE5-38600AD915EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E236573-0AA7-4948-9BE5-38600AD915EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E236573-0AA7-4948-9BE5-38600AD915EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E236573-0AA7-4948-9BE5-38600AD915EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DC437A0-DAAA-447F-8282-44407F8E05B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DC437A0-DAAA-447F-8282-44407F8E05B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DC437A0-DAAA-447F-8282-44407F8E05B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DC437A0-DAAA-447F-8282-44407F8E05B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{392CD492-6BA0-4C19-B15A-6E66B84BE1A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{392CD492-6BA0-4C19-B15A-6E66B84BE1A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{392CD492-6BA0-4C19-B15A-6E66B84BE1A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{392CD492-6BA0-4C19-B15A-6E66B84BE1A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1743531-1110-4BCC-8842-332AD63054D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1743531-1110-4BCC-8842-332AD63054D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1743531-1110-4BCC-8842-332AD63054D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1743531-1110-4BCC-8842-332AD63054D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4084FF59-3ACC-42AA-8DF3-F281D0C60C73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4084FF59-3ACC-42AA-8DF3-F281D0C60C73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4084FF59-3ACC-42AA-8DF3-F281D0C60C73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4084FF59-3ACC-42AA-8DF3-F281D0C60C73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5E236573-0AA7-4948-9BE5-38600AD915EC} = {CE6B0CB1-C786-4865-8EA3-777947FA57A5}
+		{2DC437A0-DAAA-447F-8282-44407F8E05B3} = {1ABE9F8C-164B-458D-BF33-B809042BB8D2}
+		{392CD492-6BA0-4C19-B15A-6E66B84BE1A2} = {D805DC23-3085-4D04-B9E9-1F0166A4023D}
+		{A1743531-1110-4BCC-8842-332AD63054D7} = {34274EEC-2E91-49A4-9486-0801AC74CD8C}
+		{4084FF59-3ACC-42AA-8DF3-F281D0C60C73} = {45E3532A-D9CD-44B0-8155-CE06EAE910C3}
+	EndGlobalSection
+EndGlobal
